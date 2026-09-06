@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "GuardianX - Scam & News Detector",
+  "version": "1.0",
+  "description": "Detects Phishing Links and Fake News in real-time",
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "permissions": []
+}
